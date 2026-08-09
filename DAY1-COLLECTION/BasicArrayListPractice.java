@@ -20,7 +20,7 @@ public class BasicArrayListPractice {
         System.out.println(technologies.get(3));
 
         int index = technologies.indexOf("PostgreSQL");
-        technologies.set(index, "MySQL");
+        technologies.set(index, "postgresql");
 
         System.out.println(technologies.size());
 
