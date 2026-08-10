@@ -28,7 +28,7 @@ public class EmployeeHashMap {
 
         System.out.println();
 
-        System.out.println("All Employees");
+        System.out.println("All Employees list");
 
         for (Map.Entry<Integer, Employee> entry : employees.entrySet()) {
 
