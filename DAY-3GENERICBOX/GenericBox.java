@@ -25,7 +25,7 @@ public class GenericBox<T> {
         System.out.println(doubleBox.getValue());
 
         GenericBox<Employee> employeeBox = new GenericBox<>();
-        employeeBox.setValue(new Employee(101, "pranav", 5000, "IT"));
+        employeeBox.setValue(new Employee(101, "pranav", 6000, "IT"));
         System.out.println(employeeBox.getValue());
     }
 }
