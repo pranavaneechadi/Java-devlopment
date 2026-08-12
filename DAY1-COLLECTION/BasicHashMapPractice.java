@@ -34,7 +34,7 @@ public class BasicHashMapPractice {
         System.out.println("\nValues");
 
         for (String value : employees.values()) {
-            System.out.println(value);
+            System.out.println(values);
         }
 
         System.out.println("\nEntries");
